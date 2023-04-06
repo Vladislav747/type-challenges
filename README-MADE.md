@@ -1,0 +1,1 @@
+medium-deep-readonly - сделал
